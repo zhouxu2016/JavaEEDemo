@@ -18,7 +18,7 @@ public class Student {
     private Date intime;
 
     public Student() {
-        System.out.println("qqq");
+        System.out.println("lll");
     }
 
     public Student(String sno, String sname, String gender, String professional, String classis, String grade, int age, Date intime) {
