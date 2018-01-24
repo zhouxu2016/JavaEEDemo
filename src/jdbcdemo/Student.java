@@ -19,6 +19,7 @@ public class Student {
 
     public Student() {
         System.out.println("lllqqq");
+        System.out.println("lllppp");
     }
 
     public Student(String sno, String sname, String gender, String professional, String classis, String grade, int age, Date intime) {
